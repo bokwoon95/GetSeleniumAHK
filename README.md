@@ -1,7 +1,7 @@
 # GetSeleniumAHK
 
 Get_SeleniumAHK_64bit.exe is a self-contained binary that will install [Selenium Basic](http://florentbr.github.io/SeleniumBasic/) as well
-as downloading the latest [chromedriver](https://sites.google.com/a/chromium.org/chromedriver/) and placing chromedriver.exe inside
+as download the latest [chromedriver](https://sites.google.com/a/chromium.org/chromedriver/) and place chromedriver.exe inside
 SeleniumBasic's install directory. The user does not need Autohotkey installed, thanks to Autohotkey's ability to compile into 
 Windows binaries. 
 
